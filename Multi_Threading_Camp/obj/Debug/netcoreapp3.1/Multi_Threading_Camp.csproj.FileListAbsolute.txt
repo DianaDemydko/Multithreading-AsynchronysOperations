@@ -1,0 +1,13 @@
+D:\Exoft Trainee Camp\Multi_Threading\Multi_Threading_Camp\bin\Debug\netcoreapp3.1\Multi_Threading_Camp.exe
+D:\Exoft Trainee Camp\Multi_Threading\Multi_Threading_Camp\bin\Debug\netcoreapp3.1\Multi_Threading_Camp.deps.json
+D:\Exoft Trainee Camp\Multi_Threading\Multi_Threading_Camp\bin\Debug\netcoreapp3.1\Multi_Threading_Camp.runtimeconfig.json
+D:\Exoft Trainee Camp\Multi_Threading\Multi_Threading_Camp\bin\Debug\netcoreapp3.1\Multi_Threading_Camp.runtimeconfig.dev.json
+D:\Exoft Trainee Camp\Multi_Threading\Multi_Threading_Camp\bin\Debug\netcoreapp3.1\Multi_Threading_Camp.dll
+D:\Exoft Trainee Camp\Multi_Threading\Multi_Threading_Camp\bin\Debug\netcoreapp3.1\Multi_Threading_Camp.pdb
+D:\Exoft Trainee Camp\Multi_Threading\Multi_Threading_Camp\obj\Debug\netcoreapp3.1\Multi_Threading_Camp.AssemblyInfoInputs.cache
+D:\Exoft Trainee Camp\Multi_Threading\Multi_Threading_Camp\obj\Debug\netcoreapp3.1\Multi_Threading_Camp.AssemblyInfo.cs
+D:\Exoft Trainee Camp\Multi_Threading\Multi_Threading_Camp\obj\Debug\netcoreapp3.1\Multi_Threading_Camp.csproj.CoreCompileInputs.cache
+D:\Exoft Trainee Camp\Multi_Threading\Multi_Threading_Camp\obj\Debug\netcoreapp3.1\Multi_Threading_Camp.dll
+D:\Exoft Trainee Camp\Multi_Threading\Multi_Threading_Camp\obj\Debug\netcoreapp3.1\Multi_Threading_Camp.pdb
+D:\Exoft Trainee Camp\Multi_Threading\Multi_Threading_Camp\obj\Debug\netcoreapp3.1\Multi_Threading_Camp.genruntimeconfig.cache
+D:\Exoft Trainee Camp\Multi_Threading\Multi_Threading_Camp\obj\Debug\netcoreapp3.1\Multi_Threading_Camp.csprojAssemblyReference.cache
